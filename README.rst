@@ -55,8 +55,8 @@ outline
 +======================================================================================+============+===================================+===================================================================================+
 | Using Data Augmentation Based Reinforcement Learning for Daily Stock Trading         | 2020       | Electronics                       | `pdf <https://www.mdpi.com/2079-9292/9/9/1384>`_                                  |  
 +--------------------------------------------------------------------------------------+------------+-----------------------------------+-----------------------------------------------------------------------------------+
-| Time-driven feature-aware jointly deep reinforcement learning for financial signal   |            |                                   |                                                                                   |
-| representation and algorithmic trading                                               | 2020       | Expert Systems with Applications  | `pdf <https://www.sciencedirect.com/science/article/abs/pii/S0957417419305822>`_  |
+| Time-driven feature-aware jointly deep reinforcement learning for financial signal   | 2020       | Expert Systems with Applications  | `pdf <https://www.sciencedirect.com/science/article/abs/pii/S0957417419305822>`_  |
+| representation and algorithmic trading                                               |            |                                   |                                                                                   |
 +--------------------------------------------------------------------------------------+------------+-----------------------------------+-----------------------------------------------------------------------------------+
 
 2.2 rl for portfolio optimization
